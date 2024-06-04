@@ -84,23 +84,21 @@ lugarFecha.locale('es', formatoFecha)
 const horarioFecha = lugarFecha.format('dddd, DD [de] MMMM [del] YYYY || HH:mm A').replace(/^\w/, (c) => c.toUpperCase())
 
 let menu =`
- ╭━〔 *🇾🇪 Cris X Jenn Creador 🇾🇪* 〕
-*┃➤ Creadores : Cris X Jenn 🇾🇪*
-*┃➤ Instagram : https://www.instagram.com/cristhofer_yallico 😻*
+ ╭━〔 *💦 Kchero Creador 💦* 〕
+*┃➤ Creadores : Kchero 💦*
+*┃➤ Instagram : ${uptime} 😻*
 *┃➤ Activo : ${uptime} 😹*
-*┃➤ Instagram : https://www.instagram.com/jenn_dzzn 🙈*
 *┃➤ Yape 1 : +51 991 619 710 💸*
-*┃➤ Yape 2 : +51 955 250 033 💸*
  ╰━━━━━━━━━━━━━
 
-  ╭━〔 *🇾🇪 Cris X Jenn Adquirir 🇾🇪* 〕
+  ╭━〔 *💦 Kchero Adquirir 💦* 〕
  *┃➤* _${usedPrefix}Preciobot / Comprar El Bot_
- *┃➤* _${usedPrefix}Proveedor / Deseas Vender Cris X Jenni ?_
- *┃➤* _${usedPrefix}PinguiComu / Publicidad De La Comunidad Cris X Jenni_
+ *┃➤* _${usedPrefix}Proveedor / Deseas Vender Kcheroi ?_
+ *┃➤* _${usedPrefix}PinguiComu / Publicidad De La Comunidad Kcheroi_
  *┃➤* _${usedPrefix}Publicidadbot / Publicidad Del Bot_
   ╰━━━━━━━━━━━━━
   
-  ╭━〔 *🇾🇪 Cris X Jenn Info 🇾🇪* 〕
+  ╭━〔 *💦 Kchero Info 💦* 〕
  *┃➤* _${usedPrefix}cafirexos_
  *┃➤* _${usedPrefix}gruposgb_
  *┃➤* _${usedPrefix}donar_
@@ -112,7 +110,7 @@ let menu =`
  *┃➤* _${usedPrefix}velocidad_
   ╰━━━━━━━━━━━━━
   
-  ╭━〔 *🇾🇪 Cris X Jenn Free Fire 🇾🇪* 〕
+  ╭━〔 *💦 Kchero Free Fire 💦* 〕
  *┃➤* _${usedPrefix}Lista3 / Lista De Actividades_
  *┃➤* _${usedPrefix}Masc18 / Lista Masc 18_
  *┃➤* _${usedPrefix}Masc20 / Lista Masc 20_
@@ -140,39 +138,39 @@ let menu =`
  *┃➤* _${usedPrefix}InfinitoFem / Reglas Infinito Femenina Sur_
   ╰━━━━━━━━━━━━━
 
-  ╭━〔 *🇾🇪 Cris X Jenn Spamer 🇾🇪* 〕
+  ╭━〔 *💦 Kchero Spamer 💦* 〕
  *┃➤* _${usedPrefix}SpamApk_
  *┃➤* _${usedPrefix}Comunidades_
   ╰━━━━━━━━━━━━━
 
-  ╭━〔 *🇾🇪 Cris X Jenn Reclutamientos 🇾🇪* 〕
+  ╭━〔 *💦 Kchero Reclutamientos 💦* 〕
  *┃➤* _${usedPrefix}TeamFem_
  *┃➤* _${usedPrefix}TeamMasc_
   ╰━━━━━━━━━━━━━
 
-   ╭━〔 *🇾🇪 Cris X Jenn Edits 🇾🇪* 〕
+   ╭━〔 *💦 Kchero Edits 💦* 〕
  *┃➤* _${usedPrefix}ApkEdit_
  *┃➤* _${usedPrefix}DriveEdits_
  *┃➤* _${usedPrefix}Dzn / Servicio De Dzn - Comprar Edits_
   ╰━━━━━━━━━━━━━
 
-   ╭━〔 *🇾🇪 Cris X Jenn Tarjetas 🇾🇪* 〕
+   ╭━〔 *💦 Kchero Tarjetas 💦* 〕
  *┃➤* _${usedPrefix}Cc2_
  *┃➤* _${usedPrefix}Tarjetas_
   ╰━━━━━━━━━━━━━
 
-   ╭━〔 *🇾🇪 Cris X Jenn Pornero 🇾🇪* 〕
+   ╭━〔 *💦 Kchero Pornero 💦* 〕
  *┃➤* _${usedPrefix}PinguiPajero_
  *┃➤* _${usedPrefix}PinguiPornero_
   ╰━━━━━━━━━━━━━
   
-  ╭━〔 *🇾🇪 Cris X Jenn Premium 🇾🇪* 〕
+  ╭━〔 *💦 Kchero Premium 💦* 〕
  *┃➤* _${usedPrefix}listapremium | listprem_
  *┃➤* _${usedPrefix}pase premium_
  *┃➤* _${usedPrefix}pass premium_
   ╰━━━━━━━━━━━━━
   
-  ╭━〔 *🇾🇪 Cris X Jenn Juegos 🇾🇪* 〕
+  ╭━〔 *💦 Kchero Juegos 💦* 〕
  *┃➤* _${usedPrefix}mates | matemáticas | math_
  *┃➤* _${usedPrefix}lanzar *cara* | *cruz*_
  *┃➤* _${usedPrefix}ppt *piedra : papel : tijera*_
@@ -218,12 +216,12 @@ let menu =`
  *┃➤* _${usedPrefix}suerte_
   ╰━━━━━━━━━━━━━
   
-  ╭━〔 *🇾🇪 Cris X Jenn Ia 🇾🇪* 〕
+  ╭━〔 *💦 Kchero Ia 💦* 〕
  *┃➤* _${usedPrefix}geminiimg *reaccione a una foto*_
  *┃➤* _${usedPrefix}gemini *texto*_
   ╰━━━━━━━━━━━━━
 
-  ╭━〔 *🇾🇪 Cris X Jenn Ajustes Grupos 🇾🇪* 〕
+  ╭━〔 *💦 Kchero Ajustes Grupos 💦* 〕
  *┃➤* _${usedPrefix}enable *o* disable *bienvenida | welcome*_
  *┃➤* _${usedPrefix}enable *o* disable *avisos | detect*_
  *┃➤* _${usedPrefix}enable *o* disable *autonivel | autolevelup*_
@@ -252,13 +250,13 @@ let menu =`
  *┃➤* _${usedPrefix}enable *o* disable *soloprivados | pconly*_
  *┃➤* _${usedPrefix}enable *o* disable *sologrupos | gconly*_  ╰━━━━━━━━━━━━━
 
-  ╭━〔 *🇾🇪 Cris X Jenn Ajustes 🇾🇪* 〕
+  ╭━〔 *💦 Kchero Ajustes 💦* 〕
  *┃➤* _${usedPrefix}configuracion_
  *┃➤* _${usedPrefix}settings_
  *┃➤* _${usedPrefix}vergrupo_
   ╰━━━━━━━━━━━━━
 
-  ╭━〔 *🇾🇪 Cris X Jenn Descargas 🇾🇪* 〕
+  ╭━〔 *💦 Kchero Descargas 💦* 〕
  *┃➤* _${usedPrefix}imagen | image *texto*_
  *┃➤* _${usedPrefix}pinterest | dlpinterest *texto*_
  *┃➤* _${usedPrefix}wallpaper|wp *texto*_
@@ -288,7 +286,7 @@ let menu =`
  *┃➤* _${usedPrefix}historia_
   ╰━━━━━━━━━━━━━
 
-  ╭━〔 *🇾🇪 Cris X Jenn Anonimo 🇾🇪* 〕
+  ╭━〔 *💦 Kchero Anonimo 💦* 〕
  *┃➤* _${usedPrefix}chatanonimo | anonimochat_
  *┃➤* _${usedPrefix}anonimoch_
  *┃➤* _${usedPrefix}start_
@@ -296,7 +294,7 @@ let menu =`
  *┃➤* _${usedPrefix}leave_
   ╰━━━━━━━━━━━━━
 
-  ╭━〔 *🇾🇪 Cris X Jenn Cmd Grupos 🇾🇪* 〕
+  ╭━〔 *💦 Kchero Cmd Grupos 💦* 〕
  *┃➤* _${usedPrefix}add *numero*_
  *┃➤* _${usedPrefix}sacar | ban | kick  *@tag*_
  *┃➤* _${usedPrefix}grupo *abrir o cerrar*_
@@ -331,7 +329,7 @@ let menu =`
  *┃➤* _${usedPrefix}disable_
   ╰━━━━━━━━━━━━━
 
-  ╭━〔 *🇾🇪 Cris X Jenn Parejas 🇾🇪* 〕
+  ╭━〔 *💦 Kchero Parejas 💦* 〕
  *┃➤* _${usedPrefix}listaparejas | listship_
  *┃➤* _${usedPrefix}mipareja | mylove_
  *┃➤* _${usedPrefix}pareja | couple *@tag*_
@@ -340,7 +338,7 @@ let menu =`
  *┃➤* _${usedPrefix}terminar | finish *@tag*_
   ╰━━━━━━━━━━━━━
 
-  ╭━〔 *🇾🇪 Cris X Jenn Votaciones 🇾🇪* 〕
+  ╭━〔 *💦 Kchero Votaciones 💦* 〕
  *┃➤* _${usedPrefix}crearvoto | startvoto *texto*_
  *┃➤* _${usedPrefix}sivotar | upvote_
  *┃➤* _${usedPrefix}novotar | devote_
@@ -348,7 +346,7 @@ let menu =`
  *┃➤* _${usedPrefix}delvoto | deletevoto_
   ╰━━━━━━━━━━━━━
 
-  ╭━〔 *🇾🇪 Cris X Jenn Convertidores 🇾🇪* 〕
+  ╭━〔 *💦 Kchero Convertidores 💦* 〕
  *┃➤* _${usedPrefix}toimg | img | jpg *sticker*_
  *┃➤* _${usedPrefix}toanime | jadianime *foto*_
  *┃➤* _${usedPrefix}tomp3 | mp3 *video o nota de voz*_
@@ -359,12 +357,12 @@ let menu =`
  *┃➤* _${usedPrefix}tts es *texto*_
   ╰━━━━━━━━━━━━━
 
-  ╭━〔 *🇾🇪 Cris X Jenn Logos 🇾🇪* 〕
+  ╭━〔 *💦 Kchero Logos 💦* 〕
  *┃➤* _${usedPrefix}logos *efecto texto*_
  *┃➤* _${usedPrefix}menulogos2_
   ╰━━━━━━━━━━━━━
   
-  ╭━〔 *🇾🇪 Cris X Jenn Efectos 🇾🇪* 〕
+  ╭━〔 *💦 Kchero Efectos 💦* 〕
  *┃➤* _${usedPrefix}simpcard *@tag*_
  *┃➤* _${usedPrefix}hornycard *@tag*_
  *┃➤* _${usedPrefix}lolice *@tag*_
@@ -374,7 +372,7 @@ let menu =`
  *┃➤* _${usedPrefix}blur_
   ╰━━━━━━━━━━━━━
 
-  ╭━〔 *🇾🇪 Cris X Jenn Fantasy 🇾🇪* 〕
+  ╭━〔 *💦 Kchero Fantasy 💦* 〕
  *┃➤* _${usedPrefix}fantasy | fy_
  *┃➤* _${usedPrefix}fyguia | fyguide_
  *┃➤* _${usedPrefix}fantasyinfo | fyinfo_
@@ -385,7 +383,7 @@ let menu =`
  *┃➤* _${usedPrefix}fyentregar | fytransfer_
   ╰━━━━━━━━━━━━━
   
-  ╭━〔 *🇾🇪 Cris X Jenni Anime 🇾🇪* 〕
+  ╭━〔 *💦 Kcheroi Anime 💦* 〕
  *┃➤* _${usedPrefix}chica_
  *┃➤* _${usedPrefix}chico_
  *┃➤* _${usedPrefix}cristianoronaldo_
@@ -438,7 +436,7 @@ let menu =`
  *┃➤* _${usedPrefix}cosplay_
   ╰━━━━━━━━━━━━━
   
-  ╭━〔 *🇾🇪 Cris X Jenn Efectos A. 🇾🇪* 〕
+  ╭━〔 *💦 Kchero Efectos A. 💦* 〕
  *┃➤* _${usedPrefix}bass_
  *┃➤* _${usedPrefix}blown_
  *┃➤* _${usedPrefix}deep_
@@ -453,7 +451,7 @@ let menu =`
  *┃➤* _${usedPrefix}tupai_
   ╰━━━━━━━━━━━━━
   	
-  ╭━〔 *🇾🇪 Cris X Jenn Busqueda 🇾🇪* 〕
+  ╭━〔 *💦 Kchero Busqueda 💦* 〕
  *┃➤* _${usedPrefix}animeinfo *texto*_
  *┃➤* _${usedPrefix}anuel_
  *┃➤* _${usedPrefix}conejo_
@@ -468,7 +466,7 @@ let menu =`
  *┃➤* _${usedPrefix}wiki | wikipedia *texto*_
   ╰━━━━━━━━━━━━━
 
-  ╭━〔 *🇾🇪 Cris X Jenn Herramientas 🇾🇪* 〕
+  ╭━〔 *💦 Kchero Herramientas 💦* 〕
  *┃➤* _${usedPrefix}afk *motivo*_
  *┃➤* _${usedPrefix}acortar *url*_
  *┃➤* _${usedPrefix}calc *operacion math*_
@@ -484,7 +482,7 @@ let menu =`
  *┃➤* _${usedPrefix}horario_
   ╰━━━━━━━━━━━━━
 
-  ╭━〔 *🇾🇪 Cris X Jenn Rpg 🇾🇪* 〕
+  ╭━〔 *💦 Kchero Rpg 💦* 〕
  *┃➤* _${usedPrefix}pase premium_
  *┃➤* _${usedPrefix}pass premium_
  *┃➤* _${usedPrefix}listapremium | listprem_
@@ -510,7 +508,7 @@ let menu =`
  *┃➤* _${usedPrefix}myns_
  *┃➤* _${usedPrefix}unreg *numero de serie*_
  *┃➤* _${usedPrefix}minardiamantes | minargemas_
- *┃➤* _${usedPrefix}minarCris X Jennicoins | minarcoins_
+ *┃➤* _${usedPrefix}minarKcheroicoins | minarcoins_
  *┃➤* _${usedPrefix}minarexperiencia | minarexp_
  *┃➤* _${usedPrefix}minar *:* minar2 *:* minar3_
  *┃➤* _${usedPrefix}rob | robar 
@@ -526,11 +524,11 @@ let menu =`
  *┃➤* _${usedPrefix}fylista_
   ╰━━━━━━━━━━━━━
 
-  ╭━〔 *🇾🇪 Cris X Jenn Tops 🇾🇪* 〕
+  ╭━〔 *💦 Kchero Tops 💦* 〕
  *┃➤* _${usedPrefix}top_
   ╰━━━━━━━━━━━━━
   
-  ╭━〔 *🇾🇪 Cris X Jenn Stickers 🇾🇪* 〕
+  ╭━〔 *💦 Kchero Stickers 💦* 〕
  *┃➤* _${usedPrefix}sticker | s *imagen o video*_
  *┃➤* _${usedPrefix}sticker | s *url de tipo jpg*_
  *┃➤* _${usedPrefix}emojimix *😺+😆*_
@@ -550,12 +548,12 @@ let menu =`
  *┃➤* _${usedPrefix}cs *:* cs2_
   ╰━━━━━━━━━━━━━
   
-  ╭━〔 *🇾🇪 Cris X Jenn Stickers 2 🇾🇪* 〕
+  ╭━〔 *💦 Kchero Stickers 2 💦* 〕
  *┃➤* _${usedPrefix}wm *packname|author*_
  *┃➤* _${usedPrefix}wm *texto1|texto2*_
   ╰━━━━━━━━━━━━━
   
-  ╭━〔 *🇾🇪 Cris X Jenn Stickers 3🇾🇪* 〕
+  ╭━〔 *💦 Kchero Stickers 3💦* 〕
  *┃➤* _${usedPrefix}palmaditas | pat *@tag*_
  *┃➤* _${usedPrefix}bofetada | slap *@tag*_
  *┃➤* _${usedPrefix}golpear *@tag*_
@@ -563,7 +561,7 @@ let menu =`
  *┃➤* _${usedPrefix}alimentar | food *@tag*_
   ╰━━━━━━━━━━━━━
   
-  ╭━〔 *🇾🇪 Cris X Jenn Owners 🇾🇪* 〕
+  ╭━〔 *💦 Kchero Owners 💦* 〕
  *┃➤* _${usedPrefix}join *enlace*_
  *┃➤* _${usedPrefix}unete *enlace*_
  *┃➤* _${usedPrefix}dardiamantes *cantidad*_
@@ -594,7 +592,7 @@ let menu =`
  *┃➤* _${usedPrefix}añadircoins *@tag cantidad*_
   ╰━━━━━━━━━━━━━
 `.trim()
-await conn.sendFile(m.chat, gataImg.getRandom(), 'lp.jpg', menu, fkontak, false, { contextInfo: {mentionedJid, externalAdReply :{ mediaUrl: null, mediaType: 1, description: null, title: gt, body: '𝗖𝗿𝗶𝘀 𝗫 𝗝𝗲𝗻𝗻 🇾🇪', previewType: 0, thumbnail: imagen4, sourceUrl: redesMenu.getRandom()}}})
+await conn.sendFile(m.chat, gataImg.getRandom(), 'lp.jpg', menu, fkontak, false, { contextInfo: {mentionedJid, externalAdReply :{ mediaUrl: null, mediaType: 1, description: null, title: gt, body: '𝗕𝗼𝘁 𝗞𝗰𝗵𝗲𝗿𝗼 💦', previewType: 0, thumbnail: imagen4, sourceUrl: redesMenu.getRandom()}}})
 //conn.sendFile(m.chat, gataVidMenu.getRandom(), 'gata.mp4', menu, fkontak)
 	
 } catch (e) {
