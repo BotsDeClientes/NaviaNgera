@@ -4,7 +4,7 @@ let cafirexos = `
 _Optimice la implementación de *Antartida* mediante la integración en un servicio de alojamiento de alto rendimiento._
 
 *Compatible con Antartida*
-Aprovecha la compatibilidad y comienza usar Long Time Bot en servidores de alto rendimiento. El Staff de PinguiBot-Md y Cafirexos hacen posible que puedas ejecutar las funciones que tanto te gusta usar sintiendo una experiencia fluida y de calidad.
+Aprovecha la compatibilidad y comienza usar Long Time Bot en servidores de alto rendimiento. El Staff de bBot Kchero y Cafirexos hacen posible que puedas ejecutar las funciones que tanto te gusta usar sintiendo una experiencia fluida y de calidad.
 
 🔵 \`\`\`Información del Host\`\`\`
 
