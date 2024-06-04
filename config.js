@@ -13,8 +13,8 @@ import { en, es, id, ar, pt } from "./lib/idiomas/total-idiomas.js"
 // [ES] > Agrega el número que será Bot y los que serán propietarios.
 // [EN] > Add the number that will be Bot and those that will be owners.
 global.owner = [
-["51926933818", '𝐁𝐨𝐭 𝐊𝐜𝐡𝐞𝐫𝐨 💦', true],
-["51981983121", '𝐁𝐨𝐭 𝐊𝐜𝐡𝐞𝐫𝐨 💦', true]]
+["51924187316", '𝐁𝐨𝐭 𝐍𝐚𝐯𝐢𝐚 💀', true],
+["51970360457", '𝐁𝐨𝐭 𝐍𝐚𝐯𝐢𝐚 💀', true]]
 
 global.mods = []
 global.prems = []
@@ -111,9 +111,8 @@ global.moment = moment
 // [ES] > Agregate a ti, colaboradores o ayudates, aparecerá en el comando de lista de contactos.
 // [EN] > Adding yourself, collaborators or helpers will appear in the contact list command.
 global.official = [ // Agregate si eres Owner
-["51926933818", '𝗖𝗿𝗶𝘀 🇾🇪', 1], 
-["51912096975", '𝗝𝗲𝗻𝗻 🇾🇪', 1], 
-["51981983121", '𝗖𝗿𝗶𝘀 𝗫 𝗝𝗲𝗻𝗻 🇾🇪', 1]]
+["51970360457", '𝐁𝐨𝐭 𝐍𝐚𝐯𝐢𝐚 💀', 1], 
+["51924187316", '𝐁𝐨𝐭 𝐍𝐚𝐯𝐢𝐚 💀', 1]]
 
 global.mail = '' // Add email
 global.desc = '' // Add short description (20 caractres max)
@@ -121,8 +120,8 @@ global.desc2 = '' // Add long description (90 caractres max) (Este parámetro se
 global.country = '' // Add country, example: 🇪🇨
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
 
-global.packname = "𝐁𝐨𝐭 𝐊𝐜𝐡𝐞𝐫𝐨 💦"
-global.author = "𝐁𝐨𝐭 𝐊𝐜𝐡𝐞𝐫𝐨 💦"
+global.packname = "𝐁𝐨𝐭 𝐍𝐚𝐯𝐢𝐚 💀"
+global.author = "𝐁𝐨𝐭 𝐍𝐚𝐯𝐢𝐚 💀"
 
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
 // [ES] > CUENTAS E INFORMACIÓN DE VERSIONES DEL BOT, POR FAVOR 
@@ -130,36 +129,36 @@ global.author = "𝐁𝐨𝐭 𝐊𝐜𝐡𝐞𝐫𝐨 💦"
 // [EN] > ACCOUNTS AND BOT VERSION INFORMATION, PLEASE KEEP THIS UNCHANGED, WE STRIVE DAILY TO PROVIDE YOU WITH A BOT FOR THE COMMUNITY, BE GRATEFUL
 global.vs = ""
 global.vsJB = ""
-global.gt = "𝐁𝐨𝐭 𝐊𝐜𝐡𝐞𝐫𝐨 💦"
+global.gt = "𝐁𝐨𝐭 𝐍𝐚𝐯𝐢𝐚 💀💦"
 
-global.yt = "https://www.instagram.com/cristhofer_yallico"
-global.yt2 = "https://www.instagram.com/cristhofer_yallico"
-global.ig = "https://www.instagram.com/cristhofer_yallico"
-global.md = "https://www.instagram.com/cristhofer_yallico"
-global.fb = "https://www.instagram.com/cristhofer_yallico"
-global.tk = "https://www.instagram.com/cristhofer_yallico"
-global.ths = "https://www.instagram.com/cristhofer_yallico"
-global.paypal = 'https://www.instagram.com/cristhofer_yallico'
+global.yt = "https://www.instagram.com/navia.ffx"
+global.yt2 = "https://www.instagram.com/navia.ffx"
+global.ig = "https://www.instagram.com/navia.ffx"
+global.md = "https://www.instagram.com/navia.ffx"
+global.fb = "https://www.instagram.com/navia.ffx"
+global.tk = "https://www.instagram.com/navia.ffx"
+global.ths = "https://www.instagram.com/navia.ffx"
+global.paypal = 'https://www.instagram.com/navia.ffx'
 global.asistencia = 'https://wa.me/51926933818?text=Hola%20Cris%20Deseo%20Comprar%20El%20Bot%20:3' //Contacto
 global.bot = 'https://wa.me/51926933818?text=Hola%20Pingui%20Deseo%20Comprar%20El%20Bot%20:3' //🐧 𝗣𝗶𝗻𝗴𝘂𝗶𝗕𝗼𝘁-𝗠𝗗 🐧 𝙊𝙛𝙞𝙘𝙞𝙖𝙡 
 
-global.nna = 'https://www.instagram.com/cristhofer_yallico' // Cuentas
-global.nn2 = 'https://www.instagram.com/cristhofer_yallico' // Grupo tg GataBot
-global.nna2 = 'https://www.instagram.com/cristhofer_yallico' // Help
-global.nn = 'https://www.instagram.com/cristhofer_yallico' // Grupo 1
-global.nnn = 'https://www.instagram.com/cristhofer_yallico' // Grupo 2
-global.nnnt = 'https://www.instagram.com/cristhofer_yallico' // Grupo 3
-global.nnntt = 'https://www.instagram.com/cristhofer_yallico' // Grupo 4
-global.nnnttt = 'https://www.instagram.com/cristhofer_yallico' // Grupo 5
-global.nnnttt1 = 'https://www.instagram.com/cristhofer_yallico' // Grupo 6 COL
-global.nnnttt2 = 'https://www.instagram.com/cristhofer_yallico' // Grupo 7 COL
-global.nnnttt3 = 'https://www.instagram.com/cristhofer_yallico' // Grupo 8 COL
-global.nnnttt4 = 'https://www.instagram.com/cristhofer_yallico' // Grupo 9 COL
-global.nnnttt5 = 'https://www.instagram.com/cristhofer_yallico' // MULTI - BOTS
-global.nnnttt6 = 'https://www.instagram.com/cristhofer_yallico' // A.T.M.M
-global.channel1 = 'https://www.instagram.com/cristhofer_yallico'
-global.channel2 = 'https://www.instagram.com/cristhofer_yallico'
-global.channel3 = 'https://www.instagram.com/cristhofer_yallico'
+global.nna = 'https://www.instagram.com/navia.ffx' // Cuentas
+global.nn2 = 'https://www.instagram.com/navia.ffx' // Grupo tg GataBot
+global.nna2 = 'https://www.instagram.com/navia.ffx' // Help
+global.nn = 'https://www.instagram.com/navia.ffx' // Grupo 1
+global.nnn = 'https://www.instagram.com/navia.ffx' // Grupo 2
+global.nnnt = 'https://www.instagram.com/navia.ffx' // Grupo 3
+global.nnntt = 'https://www.instagram.com/navia.ffx' // Grupo 4
+global.nnnttt = 'https://www.instagram.com/navia.ffx' // Grupo 5
+global.nnnttt1 = 'https://www.instagram.com/navia.ffx' // Grupo 6 COL
+global.nnnttt2 = 'https://www.instagram.com/navia.ffx' // Grupo 7 COL
+global.nnnttt3 = 'https://www.instagram.com/navia.ffx' // Grupo 8 COL
+global.nnnttt4 = 'https://www.instagram.com/navia.ffx' // Grupo 9 COL
+global.nnnttt5 = 'https://www.instagram.com/navia.ffx' // MULTI - BOTS
+global.nnnttt6 = 'https://www.instagram.com/navia.ffx' // A.T.M.M
+global.channel1 = 'https://www.instagram.com/navia.ffx'
+global.channel2 = 'https://www.instagram.com/navia.ffx'
+global.channel3 = 'https://www.instagram.com/navia.ffx'
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
 
 global.rg = ''
@@ -184,14 +183,14 @@ global.eg = ''
 global.exito = eg
 
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
-global.wm = "𝐁𝐨𝐭 𝐊𝐜𝐡𝐞𝐫𝐨 💦"
-global.igfg = "𝐁𝐨𝐭 𝐊𝐜𝐡𝐞𝐫𝐨 💦"
+global.wm = "𝐁𝐨𝐭 𝐍𝐚𝐯𝐢𝐚 💀"
+global.igfg = "𝐁𝐨𝐭 𝐍𝐚𝐯𝐢𝐚 💀"
 global.wait = "*⌛ _Cargando | Charging..._ ▬▭▭▭▭▭▭*"
 global.waitt = "*⌛ _Cargando | Charging..._ ▬▬▭▭▭*"
 global.waittt = "*⌛ _Cargando | Charging..._ ▬▬▬▬▭▭*"
 global.waitttt = "*⌛ _Cargando | Charging..._ ▬▬▬▬▬▬▭*"
 global.waittttt = "*✅ _Completado | Filled..._ ▬▬▬▬▬▬▬*"
-global.nomorown = "51926933818"
+global.nomorown = "51924187316"
 global.pdoc = ["application/vnd.openxmlformats-officedocument.presentationml.presentation", "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet", "application/vnd.openxmlformats-officedocument.wordprocessingml.document", "application/vnd.ms-excel", "application/msword", "application/pdf", "text/rtf"]
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
 
