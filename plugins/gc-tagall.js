@@ -10,9 +10,9 @@ const handler = async (m, {isOwner, isAdmin, conn, text, participants, args, com
   }
   const pesan = args.join` `;
   const oi = `${pesan}`;
-  let teks = `𝐂𝐑𝐈𝐒 𝐗 𝐉𝐄𝐍𝐍 𝐈𝐍𝐕𝐎𝐂𝐀 𝐀 𝐓𝐎𝐃𝐎𝐒 🇾🇪\n\n❏ 𝐔𝐒𝐔𝐀𝐑𝐈𝐎𝐒  :  *${participants.length}* ${oi}\n\n`;
+  let teks = `💦 𝗕𝗢𝗧 𝗞𝗖𝗛𝗘𝗥𝗢 𝐈𝐍𝐕𝐎𝐂𝐀 𝐀 𝐓𝐎𝐃𝐎𝐒 💦\n\n❏ 𝐔𝐒𝐔𝐀𝐑𝐈𝐎𝐒  :  *${participants.length}* ${oi}\n\n`;
   for (const mem of participants) {
-    teks += `🇾🇪 @${mem.id.split('@')[0]}\n`;
+    teks += `💦 @${mem.id.split('@')[0]}\n`;
   }
   teks += `\n𝐀𝐍𝐎𝐓𝐀𝐓𝐄 𝐏𝐋𝐀𝐍𝐓𝐈𝐓𝐀 ღ`;
   conn.sendMessage(m.chat, {text: teks, mentions: participants.map((a) => a.id)} );
